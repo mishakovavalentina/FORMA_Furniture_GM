@@ -6,6 +6,7 @@ import Capabilities from "@/components/Capabilities";
 import Shift from "@/components/Shift";
 import Trust from "@/components/Trust";
 import FinalCTA from "@/components/FinalCTA";
+import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
 const Index = () => (
@@ -19,6 +20,7 @@ const Index = () => (
       <Shift />
       <Trust />
       <FinalCTA />
+      <Contact />
     </main>
     <Footer />
   </>
