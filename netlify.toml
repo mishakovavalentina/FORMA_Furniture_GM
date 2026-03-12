@@ -1,0 +1,9 @@
+[build]
+  base    = "lovable-project-6d8fb51e-c416-4b3b-a4f6-dd65fd233f37-2026-03-10"
+  command = "npm run build"
+  publish = "lovable-project-6d8fb51e-c416-4b3b-a4f6-dd65fd233f37-2026-03-10/dist"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
