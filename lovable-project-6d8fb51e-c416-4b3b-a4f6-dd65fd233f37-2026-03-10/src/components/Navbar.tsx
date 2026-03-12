@@ -6,6 +6,7 @@ const navLinks = [
   { label: "Возможности", href: "#capabilities" },
   { label: "SHIFT", href: "#shift" },
   { label: "Почему FORMA", href: "#why-forma" },
+  { label: "Контакты", href: "#contact" },
 ];
 
 const Navbar = () => {
